@@ -1,88 +1,88 @@
-Receptor	trise (ms) (20-80% unless noted)	stdev_rise	10-90%?	w_fast	tau_fast (ms)	stdev_fast (ms)	w_slow	tau_slow (ms)	stdev_slow (ms)	range	Neuron details	Source	Year
-GABA-A-R			0	1	10.41	6.16					"IN, neocortex, somatosensory cortex, rat"	Gupta	2000
-GABA-A-R			0	1	8.3	2.2					"IN, neocortex, somatosensory cortex, rat"	Gupta	2000
-GABA-A-R			0	1	6.44	1.7					"IN, neocortex, somatosensory cortex, rat"	Gupta	2000
-GABA-A-R	0.58	0.02	0	0.333	6.4	0.4	0.667	22	3		"sIPSC of pyramid neurons, visual cortex, rat"	Xiang	1998
-GABA-A-R	1.8	0.1	0	0.5	12	1	0.5	47	3		"eIPSC of pyramid neurons, visual cortex, rat"	Xiang	1998
-GABA-A-R	0.61	0.02	0	0.28	6.5	0.6	0.72	49	4		"IN sIPSC, visual cortex, rat"	Xiang	1998
-GABA-A-R	1.8	0.2	0	0.5	13	2	0.5	64	4		"IN eIPSC, visual cortex, rat"	Xiang	1998
-GABA-A-R			0	0.768	1.6	0.1	0.232	11	2.3		"BC-BC, dentate gyrus, hippocampus, rat"	Bartos	2001
-GABA-A-R	0.27	0.02	0	0.9	1.2	0.1	0.1	8	1.2		"BC-BC, CA1, parvalbumin-EGFP mice"	Bartos	2002
-GABA-A-R	0.25	0.02	0	0.84	0.8	0.2	0.16	3.8	1		"BC-BC, CA3, parvalbumin-EGFP mice"	Bartos	2002
-GABA-A-R	0.3	0.03	0	0.74	1	0.2	0.26	10	2.8		"BC-BC, DG, parvalbumin-EGFP mice"	Bartos	2002
-GABA-A-R	0.2	0.01	0	0.81	1.4	0.2	0.19	9.3	1.7		"BC-BC, DG, WT mice"	Bartos	2002
-GABA-A-R	0.3	0.02	0	0.6	1.2	0.4	0.6	7.3	1.9		"BC-PN, CA1, parvalbumin-EGFP mice"	Bartos	2002
-GABA-A-R	0.3	0.02	0	0.6	1.2	0.4	0.4	7.9	0.2		"BC-PN, CA3, parvalbumin-EGFP mice"	Bartos	2002
-GABA-A-R	0.2	0.03	0	0.6	1.8	0.7	0.4	8.5	3.7		"BC-PN, DG, parvalbumin-EGFP mice"	Bartos	2002
-GABA-A-R	0.2	0.02	0	0.5	1.3	0.2	0.5	5.6	0.4		"BC-PN, DG, WT mice"	Bartos	2002
-GABA-A-R			0	0.562	37.5	3.8	0.438	186.1	18.3		"Thalamus, nRt, sIPSC"	Zhang	1997
-GABA-A-R			0	0.426	42.5	6.1	0.574	177.6	16.4		"Thalamus, nRt, electrically-evoked IPSC"	Zhang	1997
-GABA-A-R			0	1	224.8	22.2					"Thalamus, nRt, GABA-evoked IPSC"	Zhang	1997
-GABA-A-R			0	0.578	16.7	1.8	0.422	39	2.9		"Thalamus, VB, sIPSC"	Zhang	1997
-GABA-A-R			0	0.716	23	3.4	0.284	68.3	6.7		"Thalamus, VB, electrically-evoked IPSC"	Zhang	1997
-GABA-A-R			0	1	115	15.4					"Thalamus, VB, GABA-evoked IPSC"	Zhang	1997
-GABA-A-R			0		5			10		1	"sIPSC; SG (layers 2-3), layer IV, IG neurons"	Salin	1996
-GABA-A-R	0.9	0.04	0	1	8.3	1.3					"mIPSC; SG (layers 2-3), layer IV, IG neurons"	Salin	1996
-GABA-A-R			0	1	7.9	1.9					Purkinje neurons	Puia	1994
-GABA-A-R	0.6	0.3	0	0.4	7	1.6	0.6	59	16		Granule neurons	Puia	1994
-GABA-A-R			0	0.4	6.4	0.9	0.6	65	19		"Granule neurons, with tetrodotoxin"	Puia	1994
-GABA-A-R	0.34	0.12	0	0.4	2.7	0	0.6	53.6	0		"mIPSC, GABAA, granule cells, dentate gyrus, hippocampus, rat"	Edwards	1990
-GABA-A-R			0	0.18	2.3	0	0.82	57.5	0		"eIPSC, GABAA, granule cells, dentate gyrus, hippocampus, rat"	Edwards	1990
-GABA-A-R			0	1	6.63	2.13					Presynapse: interneuron; postsynapse: Mauthner cell; Carassius auratus. (also: glycine and glutamate)	Faber	1980
-GluR (unspecified type)			0	1	6.63	2.13					Presynapse: interneuron; postsynapse: Mauthner cell; Carassius auratus. (also: glycine and glutamate)	Faber	1980
-NMDA-type GluR			0	0.65	23.5	3.8	0.35	123	83		"Pyramid neurons, hippocampus, rat"	Hestrin	1990
-NMDA-type GluR	8	3	0		50			100		1	"IN, hippocampus, rat"	Sah	1990
-NMDA-type GluR			0	1	19.4	3.1					EPSC; Presynapse: PN; Postsynapse: IN	Geiger	1997
-NMDA-type GluR			0	1	262.8	20.8					"Low NR2A subunit expression, cortical neuron, neocortex, 3/4 day old rats"	Flint	1997
-NMDA-type GluR			0	1	146	9.1					"High NR2A subunit expression, cortical neuron, neocortex, 8/9 day old rats"	Flint	1997
-NMDA-type GluR	5.8	0.62	1	0.5	27.6	3.9	0.5	147.4	13.2		"Medial vestibular nucleus (MVN), rat"	Kinney	1994
-NMDA-type GluR			0	1	6.63	2.13					Presynapse: interneuron; postsynapse: Mauthner cell; Carassius auratus (also: glycine and glutamate)	Faber	1980
-non-NMDA-type GluR			0	1	7.2	0					"Pyramid neurons, hippocampus, rat"	Hestrin	1990
-non-NMDA-type GluR	2	1	0		3			15		1	"IN, hippocampus, rat"	Sah	1990
-non-NMDA-type GluR			0	0.78	288	23	0.22	2824	253		"Dendrite of pyramid neuron, hippocampus CA1, rat"	Spruston	1995
-non-NMDA-type GluR			0	0.85	230	36	0.15	2918	491		"Soma of pyramid neuron, hippocampus CA1, rat"	Spruston	1995
-non-NMDA-type GluR			0	0.72	175	20	0.28	1188	181		"Dendrite of pyramid neuron, hippocampus CA3, rat"	Spruston	1995
-non-NMDA-type GluR			0	0.82	197	24	0.18	1287	129		"Soma of pyramid neuron, hippocampus CA3, rat"	Spruston	1995
-non-NMDA-type GluR	7	0.5	0	1	52	9					Presynapse: pyramid neuron; Postsynapse: IN	Angulo	1999
-AMPA-type GluR			0	0.83	2.2	0.2	0.17	9	1.1		"Dendrite of pyramid neuron, hippocampus CA1, rat"	Spruston	1995
-AMPA-type GluR			0	0.78	2.2	0.2	0.22	6.8	0.6		"Soma of pyramid neuron, hippocampus CA1, rat"	Spruston	1995
-AMPA-type GluR			0	0.83	1.8	0.2	0.17	8.1	1.5		"Dendrite of pyramid neuron, hippocampus CA3, rat"	Spruston	1995
-AMPA-type GluR			0	0.79	1.7	0.2	0.21	6.3	1		"Soma of pyramid neuron, hippocampus CA3, rat"	Spruston	1995
-AMPA-type GluR	0.29	0.04	0	1	2	0.8					Presynapse: pyramid neuron; Postsynapse: IN	Angulo	1999
-AMPA-type GluR	0.249	0.015	0	1	0.772	0.091					EPSC; Presynapse: PN; Postsynapse: IN	Geiger	1997
-AMPA-type GluR	0.143	0.016	0	1	0.367	0.029					Quantal EPSC; Presynapse: PN; Postsynapse: IN	Geiger	1997
-AMPA-type GluR			0	1	1.99	0.16					"MSO, rat"	Smith	2000
-AMPA-type GluR	0.5	0.2	0	1	4.1	0.9					"2 mM Ca2+, 1 mM Mg2+; MF-CA3 pyramid cell, hippocampus, rat"	Jonas	1993
-AMPA-type GluR	0.6	0.2	0	1	4.7	1.3					"1 mM Ca2+, 3 mM Mg2+; MF-CA3 pyramid cell, hippocampus, rat"	Jonas	1993
-Nicotinic ACh receptor			0	0.8	5.1	0.3	0.2	33	1		"&alpha;2&beta;2, ganglionic EPSC, Xenopus laevis, -150 mV"	Figl	2000
-Nicotinic ACh receptor			0	0.8	4.4	0.5	0.2	43	2		"&alpha;2&beta;2, ganglionic EPSC, Xenopus laevis, -80 mV"	Figl	2000
-Nicotinic ACh receptor			0	0.7	5	0.5	0.3	50	2		"&alpha;3&beta;2, ganglionic EPSC, Xenopus laevis, -150 mV"	Figl	2000
-Nicotinic ACh receptor			0	0.7	4.5	0.2	0.3	35	3		"&alpha;3&beta;2, ganglionic EPSC, Xenopus laevis, -80 mV"	Figl	2000
-Nicotinic ACh receptor			0	0.65	7	1	0.35	73	6		"&alpha;4&beta;2, ganglionic EPSC, Xenopus laevis, -150 mV"	Figl	2000
-Nicotinic ACh receptor			0	0.65	5.5	0.4	0.35	57	3		"&alpha;4&beta;2, ganglionic EPSC, Xenopus laevis, -80 mV"	Figl	2000
-Nicotinic ACh receptor			0	0.55	97	20	0.45	620	50		"&alpha;2&beta;4, ganglionic EPSC, Xenopus laevis, -150 mV"	Figl	2000
-Nicotinic ACh receptor			0	0.65	32	7	0.35	220	20		"&alpha;2&beta;4, ganglionic EPSC, Xenopus laevis, -80 mV"	Figl	2000
-Nicotinic ACh receptor			0	0.5	116	8	0.5	600	40		"&alpha;3&beta;4, ganglionic EPSC, Xenopus laevis, -150 mV"	Figl	2000
-Nicotinic ACh receptor			0	0.7	85	6	0.3	430	70		"&alpha;3&beta;4, ganglionic EPSC, Xenopus laevis, -80 mV"	Figl	2000
-Nicotinic ACh receptor			0	0.65	39	5	0.35	1000	200		"&alpha;4&beta;4, ganglionic EPSC, Xenopus laevis, -150 mV"	Figl	2000
-Nicotinic ACh receptor			0	0.7	37	2	0.3	480	50		"&alpha;4&beta;4, ganglionic EPSC, Xenopus laevis, -80 mV"	Figl	2000
-Nicotinic ACh receptor			0	1	4.6	0.4					"Superior cervical ganglion neurons, rabbit"	Derkach	1983
-Glycine	0.7	0.1	1	0.922	7.8	0.3	0.078	38.3	1.7		"eIPSC, MSO, 3-11 day old rat (6-11 day for t<sub>rise</sub>)"	Smith	2000
-Glycine			0	1	3.9	0.3					"eIPSC, MSO, 11 day old rat. Slow component contributes less than 1%."	Smith	2000
-Glycine	0.62	0.11	1	0.74	5.3	0.4	0.26	16.5	0.3		"Spontaneous miniature IPSC, MSO, rat"	Smith	2000
-Glycine			0	1	6.63	2.13					Presynapse: interneuron; postsynapse: Mauthner cell; Carassius auratus (also: GABA and glutamate)	Faber	1980
-mGluR1	199	25	0	1	809	92					"Inward EPSC (V = -75 mV), dopamine neurons, SNc, rat"	Bengtson	2004
-mGluR1	890	90	0	1	3180	440					"Outward EPSC (V = 47 mV), dopamine neurons, SNc, rat"	Bengtson	2004
-mGluR1	960	90	0	1	3100	340					"With DHPG agonist, inward EPSC (V = -75 mV), dopamine neurons, SNc, rat"	Bengtson	2004
-mGluR1	4820	1100	0	1	11150	1520					"With DHPG agonist, outward EPSC (V = 45 mV), dopamine neurons, SNc, rat"	Bengtson	2004
-evoked/none given	2.6	0.4	1	0.5	6.9	0.8	0.5	34.4	7.7		Evoked EPSC in submandibular ganglion cells	Callister	1996
-evoked/none given				0.5	8.3	1.2	0.5	38	9.6		Evoked EPSC in submandibular ganglion cells	Callister	1996
-Dopamine	7.06	0.94	1	1	25.57	2.12					"Effect of D1-type dopamine receptor amplification on EPSP. Layer 5 pyramidal neurons, rat PFC)"	Rotaru	2007
-AMPA-type GluR	0.59	0.05	1	1	1.33	0.18					"Evoked EPSC, 4-11 day old rat"	Bellingham	1998
-AMPA-type GluR	0.46	0.02	1	1	0.66	0.2					"Evoked EPSC, 12-18 day old rat"	Bellingham	1998
-AMPA-type GluR	0.25	0.01	1	1	0.43	0.04					"Spontaneous EPSC, 4-11 day old rat"	Bellingham	1998
-AMPA-type GluR	0.22	0.004	1	1	0.34	0.04					"Spontaneous EPSC, 12-18 day old rat"	Bellingham	1998
-NMDA-type GluR				1	101.2	11.5					"Evoked EPSC, 4-11 day old rat"	Bellingham	1998
-NMDA-type GluR				1	60.4	3.4					"Evoked EPSC, 12-18 day old rat"	Bellingham	1998
-NMDA-type GluR				1	95	8.6					"Spontaneous EPSC, 4-11 day old rat"	Bellingham	1998
-NMDA-type GluR				1	64	4.7					"Spontaneous EPSC, 12-18 day old rat"	Bellingham	1998
+Receptor,$\tau_\text{rise}$ (ms) (20-80% unless noted),$\sigma_\text{rise}$,10-90%?,$w_\text{fast}$,$\tau_\text{fast}$ (ms),$\sigma_\text{fast}$ (ms),$w_\text{slow}$,$\tau_\text{slow}$ (ms),$\sigma_\text{slow} (ms),Range,Neuron details,Source,Year
+GABA-A-R,,,0,1,10.41,6.16,,,,,"IN, neocortex, somatosensory cortex, rat",Gupta,2000
+GABA-A-R,,,0,1,8.3,2.2,,,,,"IN, neocortex, somatosensory cortex, rat",Gupta,2000
+GABA-A-R,,,0,1,6.44,1.7,,,,,"IN, neocortex, somatosensory cortex, rat",Gupta,2000
+GABA-A-R,0.58,0.02,0,0.333,6.4,0.4,0.667,22,3,,"sIPSC of pyramid neurons, visual cortex, rat",Xiang,1998
+GABA-A-R,1.8,0.1,0,0.5,12,1,0.5,47,3,,"eIPSC of pyramid neurons, visual cortex, rat",Xiang,1998
+GABA-A-R,0.61,0.02,0,0.28,6.5,0.6,0.72,49,4,,"IN sIPSC, visual cortex, rat",Xiang,1998
+GABA-A-R,1.8,0.2,0,0.5,13,2,0.5,64,4,,"IN eIPSC, visual cortex, rat",Xiang,1998
+GABA-A-R,,,0,0.768,1.6,0.1,0.232,11,2.3,,"BC-BC, dentate gyrus, hippocampus, rat",Bartos,2001
+GABA-A-R,0.27,0.02,0,0.9,1.2,0.1,0.1,8,1.2,,"BC-BC, CA1, parvalbumin-EGFP mice",Bartos,2002
+GABA-A-R,0.25,0.02,0,0.84,0.8,0.2,0.16,3.8,1,,"BC-BC, CA3, parvalbumin-EGFP mice",Bartos,2002
+GABA-A-R,0.3,0.03,0,0.74,1,0.2,0.26,10,2.8,,"BC-BC, DG, parvalbumin-EGFP mice",Bartos,2002
+GABA-A-R,0.2,0.01,0,0.81,1.4,0.2,0.19,9.3,1.7,,"BC-BC, DG, WT mice",Bartos,2002
+GABA-A-R,0.3,0.02,0,0.6,1.2,0.4,0.6,7.3,1.9,,"BC-PN, CA1, parvalbumin-EGFP mice",Bartos,2002
+GABA-A-R,0.3,0.02,0,0.6,1.2,0.4,0.4,7.9,0.2,,"BC-PN, CA3, parvalbumin-EGFP mice",Bartos,2002
+GABA-A-R,0.2,0.03,0,0.6,1.8,0.7,0.4,8.5,3.7,,"BC-PN, DG, parvalbumin-EGFP mice",Bartos,2002
+GABA-A-R,0.2,0.02,0,0.5,1.3,0.2,0.5,5.6,0.4,,"BC-PN, DG, WT mice",Bartos,2002
+GABA-A-R,,,0,0.562,37.5,3.8,0.438,186.1,18.3,,"Thalamus, nRt, sIPSC",Zhang,1997
+GABA-A-R,,,0,0.426,42.5,6.1,0.574,177.6,16.4,,"Thalamus, nRt, electrically-evoked IPSC",Zhang,1997
+GABA-A-R,,,0,1,224.8,22.2,,,,,"Thalamus, nRt, GABA-evoked IPSC",Zhang,1997
+GABA-A-R,,,0,0.578,16.7,1.8,0.422,39,2.9,,"Thalamus, VB, sIPSC",Zhang,1997
+GABA-A-R,,,0,0.716,23,3.4,0.284,68.3,6.7,,"Thalamus, VB, electrically-evoked IPSC",Zhang,1997
+GABA-A-R,,,0,1,115,15.4,,,,,"Thalamus, VB, GABA-evoked IPSC",Zhang,1997
+GABA-A-R,,,0,,5,,,10,,1,"sIPSC; SG (layers 2-3), layer IV, IG neurons",Salin,1996
+GABA-A-R,0.9,0.04,0,1,8.3,1.3,,,,,"mIPSC; SG (layers 2-3), layer IV, IG neurons",Salin,1996
+GABA-A-R,,,0,1,7.9,1.9,,,,,Purkinje neurons,Puia,1994
+GABA-A-R,0.6,0.3,0,0.4,7,1.6,0.6,59,16,,Granule neurons,Puia,1994
+GABA-A-R,,,0,0.4,6.4,0.9,0.6,65,19,,"Granule neurons, with tetrodotoxin",Puia,1994
+GABA-A-R,0.34,0.12,0,0.4,2.7,0,0.6,53.6,0,,"mIPSC, GABAA, granule cells, dentate gyrus, hippocampus, rat",Edwards,1990
+GABA-A-R,,,0,0.18,2.3,0,0.82,57.5,0,,"eIPSC, GABAA, granule cells, dentate gyrus, hippocampus, rat",Edwards,1990
+GABA-A-R,,,0,1,6.63,2.13,,,,,Presynapse: interneuron; postsynapse: Mauthner cell; Carassius auratus. (also: glycine and glutamate),Faber,1980
+GluR (unspecified type),,,0,1,6.63,2.13,,,,,Presynapse: interneuron; postsynapse: Mauthner cell; Carassius auratus. (also: glycine and glutamate),Faber,1980
+NMDA-type GluR,,,0,0.65,23.5,3.8,0.35,123,83,,"Pyramid neurons, hippocampus, rat",Hestrin,1990
+NMDA-type GluR,8,3,0,,50,,,100,,1,"IN, hippocampus, rat",Sah,1990
+NMDA-type GluR,,,0,1,19.4,3.1,,,,,EPSC; Presynapse: PN; Postsynapse: IN,Geiger,1997
+NMDA-type GluR,,,0,1,262.8,20.8,,,,,"Low NR2A subunit expression, cortical neuron, neocortex, 3/4 day old rats",Flint,1997
+NMDA-type GluR,,,0,1,146,9.1,,,,,"High NR2A subunit expression, cortical neuron, neocortex, 8/9 day old rats",Flint,1997
+NMDA-type GluR,5.8,0.62,1,0.5,27.6,3.9,0.5,147.4,13.2,,"Medial vestibular nucleus (MVN), rat",Kinney,1994
+NMDA-type GluR,,,0,1,6.63,2.13,,,,,Presynapse: interneuron; postsynapse: Mauthner cell; Carassius auratus (also: glycine and glutamate),Faber,1980
+non-NMDA-type GluR,,,0,1,7.2,0,,,,,"Pyramid neurons, hippocampus, rat",Hestrin,1990
+non-NMDA-type GluR,2,1,0,,3,,,15,,1,"IN, hippocampus, rat",Sah,1990
+non-NMDA-type GluR,,,0,0.78,288,23,0.22,2824,253,,"Dendrite of pyramid neuron, hippocampus CA1, rat",Spruston,1995
+non-NMDA-type GluR,,,0,0.85,230,36,0.15,2918,491,,"Soma of pyramid neuron, hippocampus CA1, rat",Spruston,1995
+non-NMDA-type GluR,,,0,0.72,175,20,0.28,1188,181,,"Dendrite of pyramid neuron, hippocampus CA3, rat",Spruston,1995
+non-NMDA-type GluR,,,0,0.82,197,24,0.18,1287,129,,"Soma of pyramid neuron, hippocampus CA3, rat",Spruston,1995
+non-NMDA-type GluR,7,0.5,0,1,52,9,,,,,Presynapse: pyramid neuron; Postsynapse: IN,Angulo,1999
+AMPA-type GluR,,,0,0.83,2.2,0.2,0.17,9,1.1,,"Dendrite of pyramid neuron, hippocampus CA1, rat",Spruston,1995
+AMPA-type GluR,,,0,0.78,2.2,0.2,0.22,6.8,0.6,,"Soma of pyramid neuron, hippocampus CA1, rat",Spruston,1995
+AMPA-type GluR,,,0,0.83,1.8,0.2,0.17,8.1,1.5,,"Dendrite of pyramid neuron, hippocampus CA3, rat",Spruston,1995
+AMPA-type GluR,,,0,0.79,1.7,0.2,0.21,6.3,1,,"Soma of pyramid neuron, hippocampus CA3, rat",Spruston,1995
+AMPA-type GluR,0.29,0.04,0,1,2,0.8,,,,,Presynapse: pyramid neuron; Postsynapse: IN,Angulo,1999
+AMPA-type GluR,0.249,0.015,0,1,0.772,0.091,,,,,EPSC; Presynapse: PN; Postsynapse: IN,Geiger,1997
+AMPA-type GluR,0.143,0.016,0,1,0.367,0.029,,,,,Quantal EPSC; Presynapse: PN; Postsynapse: IN,Geiger,1997
+AMPA-type GluR,,,0,1,1.99,0.16,,,,,"MSO, rat",Smith,2000
+AMPA-type GluR,0.5,0.2,0,1,4.1,0.9,,,,,"2 mM Ca2+, 1 mM Mg2+; MF-CA3 pyramid cell, hippocampus, rat",Jonas,1993
+AMPA-type GluR,0.6,0.2,0,1,4.7,1.3,,,,,"1 mM Ca2+, 3 mM Mg2+; MF-CA3 pyramid cell, hippocampus, rat",Jonas,1993
+Nicotinic ACh receptor,,,0,0.8,5.1,0.3,0.2,33,1,,"$\alpha$2$\beta$2, ganglionic EPSC, Xenopus laevis, -150 mV",Figl,2000
+Nicotinic ACh receptor,,,0,0.8,4.4,0.5,0.2,43,2,,"$\alpha$2$\beta$2, ganglionic EPSC, Xenopus laevis, -80 mV",Figl,2000
+Nicotinic ACh receptor,,,0,0.7,5,0.5,0.3,50,2,,"$\alpha$3$\beta$2, ganglionic EPSC, Xenopus laevis, -150 mV",Figl,2000
+Nicotinic ACh receptor,,,0,0.7,4.5,0.2,0.3,35,3,,"$\alpha$3$\beta$2, ganglionic EPSC, Xenopus laevis, -80 mV",Figl,2000
+Nicotinic ACh receptor,,,0,0.65,7,1,0.35,73,6,,"$\alpha$4$\beta$2, ganglionic EPSC, Xenopus laevis, -150 mV",Figl,2000
+Nicotinic ACh receptor,,,0,0.65,5.5,0.4,0.35,57,3,,"$\alpha$4$\beta$2, ganglionic EPSC, Xenopus laevis, -80 mV",Figl,2000
+Nicotinic ACh receptor,,,0,0.55,97,20,0.45,620,50,,"$\alpha$2$\beta$4, ganglionic EPSC, Xenopus laevis, -150 mV",Figl,2000
+Nicotinic ACh receptor,,,0,0.65,32,7,0.35,220,20,,"$\alpha$2$\beta$4, ganglionic EPSC, Xenopus laevis, -80 mV",Figl,2000
+Nicotinic ACh receptor,,,0,0.5,116,8,0.5,600,40,,"$\alpha$3$\beta$4, ganglionic EPSC, Xenopus laevis, -150 mV",Figl,2000
+Nicotinic ACh receptor,,,0,0.7,85,6,0.3,430,70,,"$\alpha$3$\beta$4, ganglionic EPSC, Xenopus laevis, -80 mV",Figl,2000
+Nicotinic ACh receptor,,,0,0.65,39,5,0.35,1000,200,,"$\alpha$4$\beta$4, ganglionic EPSC, Xenopus laevis, -150 mV",Figl,2000
+Nicotinic ACh receptor,,,0,0.7,37,2,0.3,480,50,,"$\alpha$4$\beta$4, ganglionic EPSC, Xenopus laevis, -80 mV",Figl,2000
+Nicotinic ACh receptor,,,0,1,4.6,0.4,,,,,"Superior cervical ganglion neurons, rabbit",Derkach,1983
+Glycine,0.7,0.1,1,0.922,7.8,0.3,0.078,38.3,1.7,,"eIPSC, MSO, 3-11 day old rat (6-11 day for t<sub>rise</sub>)",Smith,2000
+Glycine,,,0,1,3.9,0.3,,,,,"eIPSC, MSO, 11 day old rat. Slow component contributes less than 1%.",Smith,2000
+Glycine,0.62,0.11,1,0.74,5.3,0.4,0.26,16.5,0.3,,"Spontaneous miniature IPSC, MSO, rat",Smith,2000
+Glycine,,,0,1,6.63,2.13,,,,,Presynapse: interneuron; postsynapse: Mauthner cell; Carassius auratus (also: GABA and glutamate),Faber,1980
+mGluR1,199,25,0,1,809,92,,,,,"Inward EPSC (V = -75 mV), dopamine neurons, SNc, rat",Bengtson,2004
+mGluR1,890,90,0,1,3180,440,,,,,"Outward EPSC (V = 47 mV), dopamine neurons, SNc, rat",Bengtson,2004
+mGluR1,960,90,0,1,3100,340,,,,,"With DHPG agonist, inward EPSC (V = -75 mV), dopamine neurons, SNc, rat",Bengtson,2004
+mGluR1,4820,1100,0,1,11150,1520,,,,,"With DHPG agonist, outward EPSC (V = 45 mV), dopamine neurons, SNc, rat",Bengtson,2004
+evoked/none given,2.6,0.4,1,0.5,6.9,0.8,0.5,34.4,7.7,,Evoked EPSC in submandibular ganglion cells,Callister,1996
+evoked/none given,,,,0.5,8.3,1.2,0.5,38,9.6,,Evoked EPSC in submandibular ganglion cells,Callister,1996
+Dopamine,7.06,0.94,1,1,25.57,2.12,,,,,"Effect of D1-type dopamine receptor amplification on EPSP. Layer 5 pyramidal neurons, rat PFC)",Rotaru,2007
+AMPA-type GluR,0.59,0.05,1,1,1.33,0.18,,,,,"Evoked EPSC, 4-11 day old rat",Bellingham,1998
+AMPA-type GluR,0.46,0.02,1,1,0.66,0.2,,,,,"Evoked EPSC, 12-18 day old rat",Bellingham,1998
+AMPA-type GluR,0.25,0.01,1,1,0.43,0.04,,,,,"Spontaneous EPSC, 4-11 day old rat",Bellingham,1998
+AMPA-type GluR,0.22,0.004,1,1,0.34,0.04,,,,,"Spontaneous EPSC, 12-18 day old rat",Bellingham,1998
+NMDA-type GluR,,,,1,101.2,11.5,,,,,"Evoked EPSC, 4-11 day old rat",Bellingham,1998
+NMDA-type GluR,,,,1,60.4,3.4,,,,,"Evoked EPSC, 12-18 day old rat",Bellingham,1998
+NMDA-type GluR,,,,1,95,8.6,,,,,"Spontaneous EPSC, 4-11 day old rat",Bellingham,1998
+NMDA-type GluR,,,,1,64,4.7,,,,,"Spontaneous EPSC, 12-18 day old rat",Bellingham,1998
