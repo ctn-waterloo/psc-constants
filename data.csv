@@ -1,4 +1,4 @@
-Receptor,$\tau_\text{rise}$ (ms) (20-80% unless noted),$\sigma_\text{rise}$,10-90%?,$w_\text{fast}$,$\tau_\text{fast}$ (ms),$\sigma_\text{fast}$ (ms),$w_\text{slow}$,$\tau_\text{slow}$ (ms),$\sigma_\text{slow} (ms),Range,Neuron details,Source,Year
+Receptor,$t_\text{rise}$ (ms) (20-80% unless noted),$\sigma_\text{rise}$,10-90%?,$w_\text{fast}$,$\tau_\text{fast}$ (ms),$\sigma_\text{fast}$ (ms),$w_\text{slow}$,$\tau_\text{slow}$ (ms),$\sigma_\text{slow} (ms),Range,Neuron details,Source,Year
 GABA-A-R,,,0,1,10.41,6.16,,,,,"IN, neocortex, somatosensory cortex, rat",Gupta,2000
 GABA-A-R,,,0,1,8.3,2.2,,,,,"IN, neocortex, somatosensory cortex, rat",Gupta,2000
 GABA-A-R,,,0,1,6.44,1.7,,,,,"IN, neocortex, somatosensory cortex, rat",Gupta,2000
