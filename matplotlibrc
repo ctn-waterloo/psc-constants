@@ -1,0 +1,4 @@
+figure.autolayout : True
+font.family : sans-serif
+font.sans-serif : Arial, sans-serif
+svg.fonttype : none
