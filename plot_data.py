@@ -1,4 +1,3 @@
-from collections import defaultdict
 import csv
 
 import matplotlib.pyplot as plt
@@ -72,7 +71,7 @@ def plot(title, data, xlabel, fname):
     plt.ylim(plt.ylim()[0] - 0.5, plt.ylim()[1] + 0.5)
     plt.xscale('log')
     plt.grid(which='both')
-    plt.savefig(fname)
+    plt.savefig(fname, transparent=True)
     plt.close()
 
 plot('PSC rise times', rise, '$t_{rise}$ (ms)', 'rise.svg')
